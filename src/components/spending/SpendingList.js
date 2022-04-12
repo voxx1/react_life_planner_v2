@@ -3,7 +3,7 @@ import SpendingData from "./SpendingData"
 const SpendingList = (props) => {
 
     if (props.items.length === 0) {
-        return <h2 style={{ textAlign: 'center', margin: 10 }}>There is nothing to show :(</h2>
+        return <h2 style={{ textAlign: 'center', margin: 10, color: "black" }}>There is nothing to show :(</h2>
     }
     return (
         <div>

@@ -1,6 +1,6 @@
 const DUMMY_GOALS = [{
     id: 1,
-    title: "Get flowers for my girlfriend!",
+    title: "Buy flowers for girlfriend!",
     description: "I have to give her some present"
 },
 {
