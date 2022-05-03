@@ -1,4 +1,4 @@
-#App created to help people organise their life plans. It was made by connecting a few previous projects, improving them and adding some new functionalities.  [LIVE VERSION](https://elaborate-lamington-507d8c.netlify.app/)
+# App created to help people organise their life plans. It was made by connecting a few previous projects, improving them and adding some new functionalities.  [LIVE VERSION](https://elaborate-lamington-507d8c.netlify.app/)
 
 # Getting Started with Create React App
 
